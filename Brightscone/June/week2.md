@@ -39,11 +39,11 @@
 
 ## Fun Story
 
-- My fun story
+- 그룹 단체사진찍은 ONE TO TEN 
 
 ## Author
 
-* **Author name** - [enter-your-name](https://github.com/enter-your-name)
+* **Author name** - [dbssu](https://github.com/dbssu)
 © 2019 GitHub, Inc.
 Terms
 Privacy
