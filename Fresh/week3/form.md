@@ -31,4 +31,4 @@
 
 ## Author
 
-* **Author name** - [enter-your-name](https://github.com/enter-your-name)
+* **신선영** - [shinsunyoung](https://github.com/shinsunyoung)
